@@ -1,0 +1,10 @@
+D:\Proiecte\Games\Games\bin\Debug\Games.exe
+D:\Proiecte\Games\Games\bin\Debug\Games.pdb
+D:\Proiecte\Games\Games\obj\Debug\ResolveAssemblyReference.cache
+D:\Proiecte\Games\Games\obj\Debug\Games.Form1.resources
+D:\Proiecte\Games\Games\obj\Debug\Games.Properties.Resources.resources
+D:\Proiecte\Games\Games\obj\Debug\Games.csproj.GenerateResource.Cache
+D:\Proiecte\Games\Games\obj\Debug\Games.exe
+D:\Proiecte\Games\Games\obj\Debug\Games.pdb
+F:\Microsoft Visual c#\Games\Games\obj\Debug\Games.exe
+D:\salvate\Vlad stick\Microsoft Visual c#\Games\Games\obj\Debug\Games.exe

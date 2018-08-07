@@ -1,0 +1,8 @@
+D:\Proiecte\Games\Games\obj\Release\ResolveAssemblyReference.cache
+D:\Proiecte\Games\Games\obj\Release\Games.Form1.resources
+D:\Proiecte\Games\Games\obj\Release\Games.Properties.Resources.resources
+D:\Proiecte\Games\Games\obj\Release\Games.csproj.GenerateResource.Cache
+D:\Proiecte\Games\Games\bin\Release\Games.exe
+D:\Proiecte\Games\Games\bin\Release\Games.pdb
+D:\Proiecte\Games\Games\obj\Release\Games.exe
+D:\Proiecte\Games\Games\obj\Release\Games.pdb
